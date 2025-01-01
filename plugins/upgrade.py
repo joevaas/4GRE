@@ -26,7 +26,7 @@ Payment Details :-
 <b>➜ UPI ID :</b> <code>joevaasaaser@sbi</code>
 <b>➜ QR Code :</b> <a href='https://ibb.co/Jsr3XRX'>Click Here</a>
 
-After Payment Send Screenshots Of Payment To Admin @Tamil_Aime_Files"""
+After Payment Send Screenshots Of Payment To Admin @Mr_Solo_Viber"""
     
     keybord = InlineKeyboardMarkup([
         [InlineKeyboardButton("🦋 Admin", url = "https://t.me/Tamil_Aime_Files"),
@@ -59,7 +59,7 @@ Payment Details :-
 <b>➜ UPI ID :</b> <code>joevaasaaser@sbi</code>
 <b>➜ QR Code :</b> <a href='https://ibb.co/Jsr3XRX'>Click Here</a>
 
-After Payment Send Screenshots Of Payment To Admin @Tamil_Aime_Files"""
+After Payment Send Screenshots Of Payment To Admin @Mr_Solo_Viber"""
     
     keybord = InlineKeyboardMarkup([
         [InlineKeyboardButton("🦋 Admin", url = "https://t.me/Tamil_Aime_Files"),
