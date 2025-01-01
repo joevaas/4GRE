@@ -6,8 +6,7 @@ import os
 API_ID = int(os.environ.get("API_ID", "25797857"))
 API_HASH = os.environ.get("API_HASH", "77717127ece56fac64ebea6250db8bb7")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "7750184873:AAHN0h8hZ6AQLfj6NbPlVjZSPzZkH_rSjtU")
-ADMIN = int(os.environ.get("ADMIN", "6693549185"))
-
+ADMIN = [6693549185, 7035627523]
 
 # Premium 4GB Renaming Client Config
 STRING_SESSION = os.environ.get("STRING_SESSION", "BQGJpOEALt4IdhZRubNAl4m6iyA0sjD1NNcs1dUDtXqxTGeGCvh2bFNOhynMJuNGBUICu7rrchNnmex5X-1L1xv-f_iJb_OyISgz5NCEJPxDbPUWC-Y57qNqMaaBSmbSp0sKqRihRBwTbUuiw7RRJhWgEOpUJHjBRHcaopg-0O6DJd-TeLB2l7GyWw1ZNXUToIyDsNrd4xTUxqKPEUMGVusgU7S2k1Glc8bELlYGhvbZWus5Z5zC5ahssLLcujQfAyUpxoCdQ9d7AhOog0KdJOoMB4LMeL6AXcGF9F-MT3b4WD2W-x69zeqdzRjBPHQCVxpYgrTILAkz9nIZ4rdhS8g6TkJNowAAAAGO93SBAA")
