@@ -5,7 +5,7 @@ from helper.database import botdata, find_one, total_user,getid
 from helper.progress import humanbytes
 
 token = BOT_TOKEN
-BOT_ID = 7177667220
+
 botid = token.split(':')[0]
 
 
